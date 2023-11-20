@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18pt;
+}
+.container{
+    width: 500px;
+    margin-top: 150px;
+    text-align: center;
+}
+input, button, table{
+    margin: 5px;
+}
+.scrollable{
+    overflow-x:hidden;
+    overflow-y:scroll;
+    height:500px;
+}
